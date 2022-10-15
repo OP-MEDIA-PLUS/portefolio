@@ -1,11 +1,11 @@
-title: Aurelien Mbelle aurelien # your name (or website title) here
+title: Aurelien Mbelle Bono # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data science student, software engineer with 2 years of experience in professional applications. Anxious to join the Tech company with Data missions. to build ready-to-use solutions for its regional customers. Qualified in developing action plans, project management and user guide.
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/aurelien-mbelle-bono-1ba339227/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000 # your Google Analytics tracking ID here
