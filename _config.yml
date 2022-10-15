@@ -3,8 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data science student, software engineer with 2 years of experience in professional applications. Anxious to join the Tech company with Data missions. to build ready-to-use solutions for its regional customers. Qualified in developing action plans, project management and user guide.
   <br><br>
-  Second description 
-  <br><br>
+  <br><br><br><br>
   <a href="https://www.linkedin.com/in/aurelien-mbelle-bono-1ba339227/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
